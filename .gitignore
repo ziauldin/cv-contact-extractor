@@ -1,0 +1,10 @@
+# Extracted contact details and input CVs - never commit
+output.csv
+*.csv
+*.pdf
+*.docx
+
+__pycache__/
+*.pyc
+venv/
+.venv/
